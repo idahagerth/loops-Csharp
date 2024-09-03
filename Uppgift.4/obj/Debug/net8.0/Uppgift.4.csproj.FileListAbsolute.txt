@@ -1,0 +1,14 @@
+/Users/idahagerth/Documents/Skola/Programmering 1/Bedömningsuppgifter/Moment 4/Uppgift.4/bin/Debug/net8.0/Uppgift.4
+/Users/idahagerth/Documents/Skola/Programmering 1/Bedömningsuppgifter/Moment 4/Uppgift.4/bin/Debug/net8.0/Uppgift.4.deps.json
+/Users/idahagerth/Documents/Skola/Programmering 1/Bedömningsuppgifter/Moment 4/Uppgift.4/bin/Debug/net8.0/Uppgift.4.runtimeconfig.json
+/Users/idahagerth/Documents/Skola/Programmering 1/Bedömningsuppgifter/Moment 4/Uppgift.4/bin/Debug/net8.0/Uppgift.4.dll
+/Users/idahagerth/Documents/Skola/Programmering 1/Bedömningsuppgifter/Moment 4/Uppgift.4/bin/Debug/net8.0/Uppgift.4.pdb
+/Users/idahagerth/Documents/Skola/Programmering 1/Bedömningsuppgifter/Moment 4/Uppgift.4/obj/Debug/net8.0/Uppgift.4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/idahagerth/Documents/Skola/Programmering 1/Bedömningsuppgifter/Moment 4/Uppgift.4/obj/Debug/net8.0/Uppgift.4.AssemblyInfoInputs.cache
+/Users/idahagerth/Documents/Skola/Programmering 1/Bedömningsuppgifter/Moment 4/Uppgift.4/obj/Debug/net8.0/Uppgift.4.AssemblyInfo.cs
+/Users/idahagerth/Documents/Skola/Programmering 1/Bedömningsuppgifter/Moment 4/Uppgift.4/obj/Debug/net8.0/Uppgift.4.csproj.CoreCompileInputs.cache
+/Users/idahagerth/Documents/Skola/Programmering 1/Bedömningsuppgifter/Moment 4/Uppgift.4/obj/Debug/net8.0/Uppgift.4.dll
+/Users/idahagerth/Documents/Skola/Programmering 1/Bedömningsuppgifter/Moment 4/Uppgift.4/obj/Debug/net8.0/refint/Uppgift.4.dll
+/Users/idahagerth/Documents/Skola/Programmering 1/Bedömningsuppgifter/Moment 4/Uppgift.4/obj/Debug/net8.0/Uppgift.4.pdb
+/Users/idahagerth/Documents/Skola/Programmering 1/Bedömningsuppgifter/Moment 4/Uppgift.4/obj/Debug/net8.0/Uppgift.4.genruntimeconfig.cache
+/Users/idahagerth/Documents/Skola/Programmering 1/Bedömningsuppgifter/Moment 4/Uppgift.4/obj/Debug/net8.0/ref/Uppgift.4.dll
